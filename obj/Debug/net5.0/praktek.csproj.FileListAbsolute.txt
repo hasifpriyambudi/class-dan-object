@@ -1,0 +1,16 @@
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/bin/Debug/net5.0/praktek
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/bin/Debug/net5.0/praktek.deps.json
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/bin/Debug/net5.0/praktek.runtimeconfig.json
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/bin/Debug/net5.0/praktek.runtimeconfig.dev.json
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/bin/Debug/net5.0/praktek.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/bin/Debug/net5.0/ref/praktek.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/bin/Debug/net5.0/praktek.pdb
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/obj/Debug/net5.0/praktek.csprojAssemblyReference.cache
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/obj/Debug/net5.0/praktek.GeneratedMSBuildEditorConfig.editorconfig
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/obj/Debug/net5.0/praktek.AssemblyInfoInputs.cache
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/obj/Debug/net5.0/praktek.AssemblyInfo.cs
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/obj/Debug/net5.0/praktek.csproj.CoreCompileInputs.cache
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/obj/Debug/net5.0/praktek.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/obj/Debug/net5.0/ref/praktek.dll
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/obj/Debug/net5.0/praktek.pdb
+/home/hasip/Cloud/Kuliah/Semester 2/Pemrograman/Pertemuan 4/praktek/obj/Debug/net5.0/praktek.genruntimeconfig.cache
